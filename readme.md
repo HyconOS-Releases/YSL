@@ -2,10 +2,10 @@
 
 *DOWNLOAD COUNT BY VERSION BELOW*
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/YSL/v2.0/total.svg)](https://GitHub.com/YSL/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/YSL/v2.0/total.svg)](https://GitHub.com/HyconOS-Releases/YSL/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/YSL/v1.5/total.svg)](https://GitHub.com/YSL/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/YSL/v1.5/total.svg)](https://GitHub.com/HyconOS-Releases/YSL/releases)
 
 
-[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/YSL/v1.0/total.svg)](https://GitHub.com/YSL/releases)
+[![Github Releases (by Release)](https://img.shields.io/github/downloads/HyconOS-Releases/YSL/v1.0/total.svg)](https://GitHub.com/HyconOS-Releases/YSL/releases)
